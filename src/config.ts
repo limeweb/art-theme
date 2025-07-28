@@ -67,7 +67,7 @@ export const settings = {
             name: "Astro",
             desc: "Astro Theme",
             image:
-                "https://picsum.photos/290/80?random=" +
+                "src/assets/merch.webp" +
                 Math.random() * 1000,
             order: 2,
         },
