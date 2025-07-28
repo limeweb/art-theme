@@ -59,7 +59,7 @@ export const settings = {
             name: "Demo",
             desc: "Some Demo",
             image:
-                "https://picsum.photos/290/80?random=" +
+                "src/assets/bch2.webp" +
                 Math.random() * 1000,
             order: 1,
         },
