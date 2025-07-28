@@ -1,4 +1,4 @@
-# Art Theme
+# Damara Wave
 
 Beautiful blog template with Astro.
 
