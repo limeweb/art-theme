@@ -6,7 +6,7 @@ export const isProd = MODE === "production";
 export const pageSize = 10;
 
 export const siteInfo = {
-    siteName: "Art Theme",
+    siteName: "Damara Wave",
     siteDesc: "A Beautiful Blog To Record Life !",
     lang: "en-us",
     icon: "https://picsum.photos/96",
