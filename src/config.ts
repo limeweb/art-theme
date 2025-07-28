@@ -14,7 +14,7 @@ export const siteInfo = {
     github: "https://github.com/npmrun/art-theme",
     get hero() {
         return (
-            "https://picsum.photos/1280/780?random=" +
+            "src/assets/bch2.webp" +
             Math.random() * 1000
         );
     },
